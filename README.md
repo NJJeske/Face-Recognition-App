@@ -8,7 +8,7 @@ The front-end of a JavaScript website that is used to highlight faces of random 
 * [Setup](#setup)
 
 ## General info
-A JavaScript website that is used to highlight faces of random images. The purpose of this project was to advance my skills with React's framework to make a functional website. This website uses a Machine Learning API Key called Clarifai to provide a location of a person's face when given an image. The front-end consumes a Rest Service built of Express (Node.js back-end server) and Postgres SQL (Relational Database). The database stores account information such as name, email, password, number of image entries, and timestamp. The website is deployed through Heroku.
+A JavaScript website that is used to highlight faces of random images. The purpose of this project was to advance my skills with React's framework to make a functional website. This website uses a Machine Learning API Key called Clarifai to provide a location of a person's face when given an image. The front-end consumes a Rest Service built of Express (Node.js back-end server) and Postgres SQL (Relational Database). The database stores account information such as name, email, password, number of image entries, and timestamp.
 
 ## Technologies
 * React.js - version 16.12.0
